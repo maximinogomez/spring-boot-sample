@@ -1,3 +1,3 @@
 spring-boot-sample
 ==================
-- Spring boot sample template
+- Spring boot sample template project.
